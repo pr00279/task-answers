@@ -1,0 +1,55 @@
+/* Colour pallet: https://nightpalette.com/card/-e3e3e3-bfbfbf-919191-6f6f6f-262626 */
+body {
+    background-color: #262626;
+    font-family: Lucida Sans Unicode;
+    font-size: 12px;
+    color: #bfbfbf;
+    text-align: center;
+}
+
+button {
+    background-color: #6f6f6f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    word-break: break-all;
+}
+
+#generatedUsers th, #generatedUsers td {
+    border: 1px solid;   
+    padding: 25px;
+}
+
+#registrationInformation td {
+    padding: 25px;
+}
+
+#generatedUsers th {
+    background-color: #919191;
+    color: #e3e3e3;
+}
+
+#registrationInformation {
+    width: 25%;
+}
+
+h1 {
+    color: #e3e3e3;
+}
+
+img {
+    border: 5px solid;
+    border-color: #919191;
+    padding: 10px;
+}
